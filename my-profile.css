@@ -1,0 +1,76 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(21, 2, 34);
+    background-image: url("resources/background_img.jpg");
+    background-repeat: no-repeat;
+    background-position:bottom;
+    color: white;
+}
+
+h1 {
+    height: 134px;
+    width: 1120px;
+    background-image: url("resources/header.png");
+}
+
+.main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 1400px;
+    height: 1000px;
+}
+
+.my-details {
+    display: flex;
+    flex-direction: column;
+    margin-right: 100px;
+}
+
+.playlist {
+    margin-left: 100px;
+}
+
+.aboutMe {
+    margin-bottom: 50px;
+}
+
+.projects {
+    margin-bottom: 50px;
+}
+
+.bio {
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(21, 2, 34);
+    padding: 20px;
+    border: 10px solid rgb(255, 174, 200);
+    width: 600px;
+    height: 360px;
+    overflow-y: scroll;
+}
+
+.projectLinks {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(21, 2, 34);
+    padding: 20px;
+    border: 10px solid rgb(255, 174, 200);
+    width: 600px;
+    height: 360px;
+}
+
+.contactInfo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    background-color: rgb(21, 2, 34);
+    padding: 20px;
+    border: 10px solid rgb(255, 174, 200);
+    width: 600px;
+    height: 360px;
+}
+
+.link {
+    color: rgb(255, 174, 200);
+    font-size: 18px;
+}
