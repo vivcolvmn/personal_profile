@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "<p></p>" +
         "<a class='link' href='file://wsl.localhost/Ubuntu/home/vivcolvmn/App%20Academy/Sep%20Cohort/week17/aa09-catsagram-day-1/public/index.html'>Catstagram</a>" +
         "<p></p>" +
-        "<a class='link' href='file://wsl.localhost/Ubuntu/home/vivcolvmn/App%20Academy/Sep%20Cohort/week18/aa09-tic-tac-toe-dom-temp/public/index.html'>Tic-Tac-Toe</a>" +
+        "<a class='link' href='https://tic-tac-toe-project-pz0g.onrender.com/'>Tic-Tac-Toe</a>" +
         "<p></p>";
         const closeBtn = document.createElement("button");
         closeBtn.innerText = "close window";
