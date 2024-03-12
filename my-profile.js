@@ -115,7 +115,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("Projects: ", currentEvent);
         currentEvent.innerHTML = "<a class='link' href='https://netflix-wireframe-project.onrender.com/'>Netflix Wireframe (HTML/CSS Only)</a>" +
         "<p></p>" +
-        "<a class='link' href='file://wsl.localhost/Ubuntu/home/vivcolvmn/App%20Academy/Sep%20Cohort/week17/aa09-catsagram-day-1/public/index.html'>Catstagram</a>" +
+        "<a class='link' href='https://catstagram-project.onrender.com/'>Catstagram</a>" +
         "<p></p>" +
         "<a class='link' href='https://tic-tac-toe-project-pz0g.onrender.com/'>Tic-Tac-Toe</a>" +
         "<p></p>";
