@@ -113,7 +113,7 @@ document.addEventListener("DOMContentLoaded", () => {
         console.log("Projects: ", currentEvent);
         currentEvent.className = "projectLinks";
         console.log("Projects: ", currentEvent);
-        currentEvent.innerHTML = "<a class='link' href='file://wsl.localhost/Ubuntu/home/vivcolvmn/App%20Academy/Aug%20Cohort/week14/Netflix_project/Netflix_Clone.html'>Netflix Wireframe (HTML/CSS Only)</a>" +
+        currentEvent.innerHTML = "<a class='link' href='https://netflix-wireframe-project.onrender.com/'>Netflix Wireframe (HTML/CSS Only)</a>" +
         "<p></p>" +
         "<a class='link' href='file://wsl.localhost/Ubuntu/home/vivcolvmn/App%20Academy/Sep%20Cohort/week17/aa09-catsagram-day-1/public/index.html'>Catstagram</a>" +
         "<p></p>" +
