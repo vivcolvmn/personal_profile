@@ -118,6 +118,8 @@ document.addEventListener("DOMContentLoaded", () => {
         "<a class='link' href='https://catstagram-project.onrender.com/'>Catstagram</a>" +
         "<p></p>" +
         "<a class='link' href='https://tic-tac-toe-project-pz0g.onrender.com/'>Tic-Tac-Toe</a>" +
+        "<p></p>" +
+        "<a class = link href='https://art-by-yma.onrender.com/'>Art By Yma</a>" +
         "<p></p>";
         const closeBtn = document.createElement("button");
         closeBtn.innerText = "close window";
